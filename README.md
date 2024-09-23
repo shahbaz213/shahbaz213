@@ -1,29 +1,15 @@
-<!-- Professional Header with Centered Image and Title -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="master head" width="600">
-</div>
-<h1 align="center" style="font-size: 3em; font-weight: bold; color: #0A74DA;">
-  Greetings! I'm Zeeshan Tahir
-</h1>
-<h3 align="center" style="font-weight: normal; color: #555;">
-  A Dedicated MERN Stack Developer Innovating with Cutting-Edge Technologies
-</h3>
-
-<!-- Animated GIF of coding on the right side -->
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
-
-<!-- Profile views count -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=CodeWithZeeshan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
+<!-- Professional Header with Centered Image and Title --> 
+<div align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="master head" width="600"> </div> 
+<h1 align="center" style="font-size: 3em; font-weight: bold; color: #0A74DA;"> Greetings! I'm Muhammad Shahbaz </h1> <h3 align="center" style="font-weight: normal; color: #555;"> A Skilled Android Developer with 6 Years of Experience </h3> 
+<!-- Animated GIF of coding on the right side --> 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"> 
 <!-- Introduction section -->
-<ul>
-  <li>🏢 I’m currently working at <strong>Meds IT Nexus</strong></li>
-  <li>🚀 I’m currently enhancing my skills with <strong>Node.js, Docker, and AWS</strong></li>
-  <li>💡 Feel free to ask me about <strong>MERN Stack Development, API Integrations, and Frontend Frameworks</strong></li>
-  <li>📧 How to reach me: <strong>mzeeshi187@gmail.com</strong></li>
-  <li>✨ Fun fact: I love pushing the boundaries of web technologies and exploring innovative solutions!</li>
+<ul> <li>🏢 I’m currently working as a Senior Android Developer.</li>
+  <li>🚀 With 6 years of experience, I have expertise in technologies such as <strong>Java, Kotlin, Jetpack Compose, AI, IoT, Multi-platform Mobile, Gradle, Navigation, API integrations, Firebase, 
+  and more.</strong></li>
+  <li>💡 I'm passionate about building innovative, scalable, and user-friendly mobile applications.</li>
+  <li>📧 How to reach me: <strong>your-email@example.com</strong></li> 
+  <li>✨ Fun fact: I love exploring new technologies and pushing the boundaries of what's possible in mobile app development!</li> 
 </ul>
 
 
