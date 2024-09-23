@@ -16,8 +16,8 @@
 <!-- Connect with me section -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/thezeeshantahir/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeeshan-tahir" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/muhammad-shahbaz-290459121/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad-Shahbaz" height="30" width="40" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@
   <li><a href="https://meshsq.com/">MeshSq</a> - MeshSq is an IT company offering a range of services, including web development, software solutions, and IT consulting, tailored to meet diverse business needs.</li>
   <li><a href="https://thepazone.com/">The PA Zone</a> - The PA Zone provides mentorship and guidance for aspiring and current PA students, supporting them through the application process and PA school success.</li>
   <li><a href="http://medsitnexus.com/">Meds IT Nexus</a> - Meds IT Nexus is a healthcare technology company that provides innovative IT solutions to streamline medical processes, including credentialing, telemedicine, and healthcare management systems.</li>
-  <li><a href="https://www.chime.com/">Chime</a> - Chime is a modern, mobile-first banking platform based in the USA, offering no-fee banking services, automatic savings, and early direct deposits. It empowers users with financial tools designed to simplify money management and promote financial wellness.</li>
+  <li><a href="https://www.chime.com/">Chime</a> - Chime is a modern, mobile-first banking platform based in the USA, offering no-fee banking services, automatic savings, and early direct deposits. It empowers users with financial tools that simplify money management and promote financial wellness.</li>
   <li><a href="https://www.thecredentialing.com/">The Credentialing</a> - The Credentialing Platform simplifies healthcare provider credentialing, ensuring compliance and efficiency while reducing administrative burdens for medical organizations.</li>
   <li><a href="https://simplif.com/">Simplif</a> - Simplif connects businesses with celebrities and influencers for effective advertising, simplifying endorsements to enhance brand visibility.</li>
   <li><a href="https://poodl.org/">Poodl Blockchain</a> - Poodl Blockchain offers a secure and decentralized platform for managing digital assets, enabling efficient transactions and smart contracts across various industries.</li>
