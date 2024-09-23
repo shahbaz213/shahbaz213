@@ -1,5 +1,5 @@
 <!-- Professional Header with Centered Image and Title --> 
-<div align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="master head" width="600"> </div> 
+<div align="center"> <img src="https://media.giphy.com/media/JPgbfjx4d2sAAkQabX/giphy.gif" alt="master head" width="600"> </div> 
 <h1 align="center" style="font-size: 3em; font-weight: bold; color: #0A74DA;"> Greetings! I'm Muhammad Shahbaz </h1> <h3 align="center" style="font-weight: normal; color: #555;"> A Skilled Android Developer with 6 Years of Experience </h3> 
 <!-- Animated GIF of coding on the right side --> 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"> 
@@ -8,7 +8,7 @@
   <li>🚀 With 6 years of experience, I have expertise in technologies such as <strong>Java, Kotlin, Jetpack Compose, AI, IoT, Multi-platform Mobile, Gradle, Navigation, API integrations, Firebase, 
   and more.</strong></li>
   <li>💡 I'm passionate about building innovative, scalable, and user-friendly mobile applications.</li>
-  <li>📧 How to reach me: <strong>your-email@example.com</strong></li> 
+  <li>📧 How to reach me: <strong>malikshahbaz213@example.com</strong></li> 
   <li>✨ Fun fact: I love exploring new technologies and pushing the boundaries of what's possible in mobile app development!</li> 
 </ul>
 
