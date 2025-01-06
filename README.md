@@ -30,8 +30,9 @@
 <!-- Live Projects section -->
 <h3 align="left">Live Projects:</h3>
 <ul>
-  <li><a href="https://zeeshan-developer-portfolio.vercel.app/">Portfolio</a></li>
-  <li><a href="http://dochyve.com/">DocHyve</a> - Dochyve is a platform that simplifies appointment scheduling between doctors and patients, ensuring seamless and convenient healthcare access.</li>
+  <li><a href="https://play.google.com/store/apps/details?id=ai.dtek.training.swift">Dtek Swift /KIOSK (Auto Cashier System with AI)</a></li>
+  <li><a href="http://dtek.ai/">Dtek Guide (Audio/ Face Recognition)</a> - In the Dtek Guide project, I contributed to the development of a mobile application that utilized audio and face recognition technologies to provide guidance and assistance to users. My responsibilities included implementing features for audio guidance and facial recognition, ensuring accuracy and reliability in recognizing users and providing relevant information or assistance based on their needs.
+.</li>
   <li><a href="https://hotfinch.com/">HotFinch</a> - HotFich is a dynamic eCommerce platform offering a wide variety of products, from electronics to fashion. With an intuitive interface, secure payment options, and fast shipping, it ensures a seamless shopping experience for customers worldwide.</li>
   <li><a href="https://goatpad.app/">GoatPad</a> - Bitcoin Platform offers a secure and user-friendly environment for trading, investing, and learning about cryptocurrencies, with real-time market insights and tools for both beginners and experienced traders.</li>
   <li><a href="https://meshsq.com/">MeshSq</a> - MeshSq is an IT company offering a range of services, including web development, software solutions, and IT consulting, tailored to meet diverse business needs.</li>
