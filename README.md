@@ -8,7 +8,7 @@
   <li>🚀 With 6 years of experience, I have expertise in technologies such as <strong>Java, Kotlin, Jetpack Compose, Flutter, Swift, Jira, State Management, Clear Architecture, AI, IoT, Multi-platform Mobile, Gradle, Navigation, API integrations, Firebase, Git Flow, Socket IO, Tensor Flow, InApp Purchase, Subscription, Unit Testing
   and more.</strong></li>
   <li>💡 I'm passionate about building innovative, scalable, and user-friendly mobile applications.</li>
-  <li>📧 How to reach me: <strong>malikshahbaz213@example.com</strong></li> 
+  <li>📧 How to reach me: <strong>malikshahbaz213@gmail.com</strong></li> 
   <li>✨ Fun fact: I love exploring new technologies and pushing the boundaries of what's possible in mobile app development!</li> 
 </ul>
 
