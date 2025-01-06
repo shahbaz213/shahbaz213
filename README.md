@@ -1,6 +1,6 @@
 <!-- Professional Header with Centered Image and Title --> 
 <div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="master head" width="600"> </div> 
-<h1 align="center" style="font-size: 3em; font-weight: bold; color: #0A74DA;"> Greetings! I'm Muhammad Shahbaz </h1> <h3 align="center" style="font-weight: normal; color: #555;"> A Skilled Android Developer with 6 Years of Experience </h3> 
+<h1 align="center" style="font-size: 3em; font-weight: bold; color: #0A74DA;"> Greetings! I'm Muhammad Shahbaz </h1> <h3 align="center" style="font-weight: normal; color: #555;"> A Skilled Android/Flutter Developer with 6 Years of Experience </h3> 
 <!-- Animated GIF of coding on the right side --> 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"> 
 <!-- Introduction section -->
