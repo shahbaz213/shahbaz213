@@ -4,8 +4,8 @@
 <!-- Animated GIF of coding on the right side --> 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"> 
 <!-- Introduction section -->
-<ul> <li>🏢 I’m currently working as a Senior Android Developer.</li>
-  <li>🚀 With 6 years of experience, I have expertise in technologies such as <strong>Java, Kotlin, Jetpack Compose, AI, IoT, Multi-platform Mobile, Gradle, Navigation, API integrations, Firebase, 
+<ul> <li>🏢 I’m currently working as a Senior Android/Flutter Developer.</li>
+  <li>🚀 With 6 years of experience, I have expertise in technologies such as <strong>Java, Kotlin, Jetpack Compose, Flutter, Swift, Jira, State Management, Clear Architecture, AI, IoT, Multi-platform Mobile, Gradle, Navigation, API integrations, Firebase, Git Flow, Socket IO, Tensor Flow, InApp Purchase, Subscription, Unit Testing
   and more.</strong></li>
   <li>💡 I'm passionate about building innovative, scalable, and user-friendly mobile applications.</li>
   <li>📧 How to reach me: <strong>malikshahbaz213@example.com</strong></li> 
