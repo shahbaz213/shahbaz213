@@ -22,15 +22,10 @@
 </p>
 
 
-<!-- GitHub stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Shahbaz&show_icons=true&locale=en&layout=compact" alt="Muhammad Shahbaz" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Shahbaz&show_icons=true&locale=en" alt="Muhammad Shahbaz" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Shahbaz&" alt="Muhammad Shahbaz" /></p>
-
 <!-- Live Projects section -->
 <h3 align="left">Live Projects:</h3>
 <ul>
-  <li><a href="https://play.google.com/store/apps/details?id=ai.dtek.training.swift">Dtek Swift /KIOSK (Auto Cashier System with AI)</a>- As a Flutter developer, my role in the Dtek Swift/KIOSK project involved creating an intuitive and efficient user interface for an auto cashier system integrated with AI capabilities. This system aimed to streamline the checkout process for customers by automating transactions. My tasks included developing the frontend interface, ensuring smooth navigation, and integrating AI functionalities for tasks such as facial recognition and payment processing.
+  <li><a href="https://play.google.com/store/apps/details?id=ai.dtek.training.swift">Dtek Swift /KIOSK (Auto Cashier System with AI)</a>- As a Flutter developer, my role in the Dtek Swift/KIOSK project involved creating an intuitive and efficient user interface for an auto cashier system integrated with AI capabilities. This system aimed to streamline the customer checkout process by automating transactions. My tasks included developing the frontend interface, ensuring smooth navigation, and integrating AI functionalities for tasks such as facial recognition and payment processing.
 </li>
   <li><a href="http://dtek.ai/">Dtek Guide (Audio/ Face Recognition)</a> - In the Dtek Guide project, I contributed to the development of a mobile application that utilized audio and face recognition technologies to provide guidance and assistance to users. My responsibilities included implementing features for audio guidance and facial recognition, ensuring accuracy and reliability in recognizing users and providing relevant information or assistance based on their needs.
 .</li>
